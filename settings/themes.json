@@ -107,8 +107,8 @@
     "captionLeft": 340,
     "backgroundImage": "freshcreatives.jpg",
     "foregroundColor": "#35554f",
-    "captionFont": "72px 'Bebas Neue Regular'"
     "pattern": "bars",
+    "captionFont": "72px 'Bebas Neue Regular'"
     "waveBottom": 680,
     "waveTop": 480
   }
