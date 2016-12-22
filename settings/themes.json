@@ -80,18 +80,6 @@
     "foregroundColor": "#c02942",
     "pattern": "pixel"
   },
-  "Square with background image": {
-    "width": 640,
-    "height": 640,
-    "samplesPerFrame": 64,
-    "waveTop": 20,
-    "waveBottom": 300,
-    "captionTop": 340,
-    "captionLeft": 20,
-    "captionRight": 620,
-    "foregroundColor": "#0eb8ba",
-    "backgroundImage": "nyc.png"
-  },
 "Potluck": {
     "captionAlign": "right",
     "captionTop": 60,
