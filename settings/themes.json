@@ -103,12 +103,12 @@
 "Fresh Creatives": {
     "captionAlign": "center",
     "captionTop": 260,
-    "captionRight": 940,
-    "captionLeft": 340,
+    "captionRight": 980,
+    "captionLeft": 300,
     "backgroundImage": "FreshCreatives.jpg",
     "foregroundColor": "#35554f",
+    "captionFont": "72px bold 'Source Sans Pro'",
     "pattern": "bars",
-    "captionFont": "72px 'Bebas Neue Regular'",
     "waveBottom": 680,
     "waveTop": 480
   }
