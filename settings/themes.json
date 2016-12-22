@@ -107,7 +107,7 @@
     "captionLeft": 300,
     "backgroundImage": "FreshCreatives.jpg",
     "foregroundColor": "#35554f",
-    "captionFont": "72px bold 'Bebas Nue Regular'",
+    "captionFont": "72px 'Bebas Nue Regular'",
     "pattern": "bars",
     "waveBottom": 680,
     "waveTop": 480
