@@ -101,13 +101,14 @@
     "waveTop": 270
   },
 "Fresh Creatives": {
-    "captionAlign": "right",
-    "captionTop": 60,
-    "captionRight": 1220,
-    "captionLeft": 640,
-    "backgroundImage": "audiogram.jpg",
-    "foregroundColor": "#fc0",
-    "waveBottom": 660,
-    "waveTop": 320
+    "captionAlign": "center",
+    "captionTop": 260,
+    "captionRight": 940,
+    "captionLeft": 340,
+    "backgroundImage": "FreshCreatives.jpg",
+    "foregroundColor": "#35554f",
+    "pattern": "equalizer",
+    "waveBottom": 720,
+    "waveTop": 480
   }
 }
