@@ -105,10 +105,11 @@
     "captionTop": 260,
     "captionRight": 940,
     "captionLeft": 340,
-    "backgroundImage": "FreshCreatives.jpg",
+    "backgroundImage": "freshcreatives.jpg",
     "foregroundColor": "#35554f",
-    "pattern": "equalizer",
-    "waveBottom": 720,
+    "captionFont": "72px 'Bebas Neue Regular'"
+    "pattern": "bars",
+    "waveBottom": 680,
     "waveTop": 480
   }
 }
