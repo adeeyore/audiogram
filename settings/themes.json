@@ -28,16 +28,6 @@
     "captionColor": "#515151",
     "waveColor": "#00b4ff"
   },
-  "Background image with top right text": {
-    "captionAlign": "right",
-    "captionTop": 60,
-    "captionRight": 1220,
-    "captionLeft": 640,
-    "backgroundImage": "audiogram.jpg",
-    "foregroundColor": "#fc0",
-    "waveBottom": 660,
-    "waveTop": 320
-  },
   "Bars": {
     "pattern": "bars",
     "foregroundColor": "#d84a4a"
@@ -103,6 +93,26 @@
     "backgroundImage": "nyc.png"
   },
 "Potluck": {
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "audiogram.jpg",
+    "foregroundColor": "#fc0",
+    "waveBottom": 660,
+    "waveTop": 320
+  },
+"KollabCast": {
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "kollabcast.jpg",
+    "foregroundColor": "#ffffff",
+    "waveBottom": 560,
+    "waveTop": 270
+  },
+"Fresh Creatives": {
     "captionAlign": "right",
     "captionTop": 60,
     "captionRight": 1220,
