@@ -100,6 +100,16 @@
     "waveBottom": 560,
     "waveTop": 270
   },
+"Bruce": {
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "bruce.jpg",
+    "foregroundColor": "#ffffff",
+    "waveBottom": 560,
+    "waveTop": 270
+},
 "Fresh Creatives": {
     "captionAlign": "center",
     "captionTop": 260,
