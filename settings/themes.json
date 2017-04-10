@@ -106,7 +106,61 @@
     "captionRight": 1220,
     "captionLeft": 640,
     "backgroundImage": "Bruce.jpg",
+    "foregroundColor": "#000000",
+    "waveBottom": 560,
+    "waveTop": 270
+},
+"GMBM": {
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "gmbm.jpg",
+    "foregroundColor": "#004a00",
+    "waveBottom": 560,
+    "waveTop": 270
+},
+"Saturday": {
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "saturday.jpg",
+    "foregroundColor": "#000000",
+    "pattern": "roundBars"
+    "waveBottom": 560,
+    "waveTop": 270
+},
+"Drunk Monk": {
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "drunk.jpg",
+    "foregroundColor": "#000000",
+    "pattern": "curve"
+    "waveBottom": 560,
+    "waveTop": 270
+},
+"Books & Boba": {
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "books.jpg",
     "foregroundColor": "#ffffff",
+    "pattern": "pixel"
+    "waveBottom": 560,
+    "waveTop": 270
+},
+"Asian Americana": {
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "americana.jpg",
+    "foregroundColor": "#ffffff",
+    "pattern": "line"
     "waveBottom": 560,
     "waveTop": 270
 },
