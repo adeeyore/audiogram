@@ -127,7 +127,7 @@
     "captionLeft": 640,
     "backgroundImage": "saturday.jpg",
     "foregroundColor": "#000000",
-    "pattern": "roundBars"
+    "pattern": "roundBars",
     "waveBottom": 560,
     "waveTop": 270
 },
@@ -138,7 +138,7 @@
     "captionLeft": 640,
     "backgroundImage": "drunk.jpg",
     "foregroundColor": "#000000",
-    "pattern": "curve"
+    "pattern": "curve",
     "waveBottom": 560,
     "waveTop": 270
 },
@@ -149,7 +149,7 @@
     "captionLeft": 640,
     "backgroundImage": "books.jpg",
     "foregroundColor": "#ffffff",
-    "pattern": "pixel"
+    "pattern": "pixel",
     "waveBottom": 560,
     "waveTop": 270
 },
@@ -160,7 +160,7 @@
     "captionLeft": 640,
     "backgroundImage": "americana.jpg",
     "foregroundColor": "#ffffff",
-    "pattern": "line"
+    "pattern": "line",
     "waveBottom": 560,
     "waveTop": 270
 },
