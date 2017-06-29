@@ -131,6 +131,17 @@
     "waveBottom": 560,
     "waveTop": 270
 },
+  "KDrama": {
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "KDrama.jpg",
+    "foregroundColor": "#000000",
+    "pattern": "roundBars",
+    "waveBottom": 560,
+    "waveTop": 270
+},
 "Drunk Monk": {
     "captionAlign": "right",
     "captionTop": 60,
